@@ -1,0 +1,8 @@
+.auth-view { display: flex; flex:1; flex-direction: row; }
+.auth-container {  width: 50%; }
+.auth-form { padding-left: 10%;padding-right: 10%;padding-top: 15px;padding-bottom: 5%; }
+.auth-form-container { border: 1px solid #ccc;border-radius: 8px;padding:5px 15px; }
+.auth-title { color:#31597a;font-size: 20px;padding-bottom: 10px; }
+.auth-subTitle { color:#31597a;font-size:16px; }
+
+

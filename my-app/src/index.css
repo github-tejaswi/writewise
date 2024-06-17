@@ -1,0 +1,6 @@
+body { margin: 0;font-family: 'Inter', Helvetica, Arial, Lucida, sans-serif;;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale; }
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace; }
+.nav-link.active { color:#31597a !important; }
+.nav-link { color:#fff !important; }
+.btn-writewise { background-color: #31597a !important;color: #fff !important; }
+.btn-writewise-o { border: 1px solid #31597a !important;color: #31597a !important;background-color: #fff !important; }
